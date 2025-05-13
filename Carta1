@@ -8,7 +8,7 @@ int main(){
     int pontosturísticos;
     float área;
     float PIB;
-    //exibindo as variaveis da carta1//
+    //informações da carta1//
 
      printf("Digite o estado: \n");
      scanf("%c", &estado);
