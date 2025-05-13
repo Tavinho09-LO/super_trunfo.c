@@ -8,7 +8,8 @@ int main(){
     int pontosturísticos;
     float área;
     float PIB;
-    
+    //exibindo as variaveis da carta1//
+
      printf("Digite o estado: \n");
      scanf("%c", &estado);
 
@@ -30,6 +31,7 @@ int main(){
      printf("Quantidade de pontos turísticos:\n");
      scanf("%d",&pontosturísticos);
 
+//entrada e saida de dados//
 
      printf("Carta 1!\n");
      printf("Estado:%c\n",estado);
@@ -40,6 +42,7 @@ int main(){
      printf("PIB:%.2f\n",PIB);
      printf("Pontos turísticos:%d\n",pontosturísticos);
 
+//imprimindo as variaveis//
 
 
      return 0;
